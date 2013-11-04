@@ -5,7 +5,7 @@ if($ok)
      echo "zalogowany";
 }
 
-else 
+else
 {
      echo "niezalogowany";
 }

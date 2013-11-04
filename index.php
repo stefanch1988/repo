@@ -3,3 +3,4 @@
        '<p><a href="pola/index.php" target="_blank">Pola2</a></p>'.
        '<p><a href="hodowla/index.php" target="_blank">Hodowla</a></p>';
 ?>
+
